@@ -2,11 +2,6 @@
 
 This project implements real-time object detection using a webcam feed. It leverages the YOLO (You Only Look Once) algorithm to detect objects in the video feed and label them with confidence scores.
 
-## Preview 📸
-![Object Detection in Action](screenshots/demo.gif)
-
----
-
 ## Features 🌟
 - Real-time object detection using YOLO.
 - Webcam-based object detection.
@@ -62,7 +57,7 @@ python main.py
 ### Object Detection in Progress:
 ![Detection in Progress](Assets/Screenshot_1.png)
 ### Human Detection in Progress:
-![Human Detection in Progress](Assets/Screenshot_1.png)
+![Human Detection in Progress](Assets/Screenshot_2.png)
 
 ## How It Works 🤔
 1. The script captures a real-time feed from your webcam.
