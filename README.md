@@ -66,6 +66,6 @@ python main.py
 4. Press q to exit the feed.
 
 
-**Author:** [Rahul Mandal](https://github.com/rahul886297) 
+**Author:** [Rahul Mandal](https://github.com/rahul886297), [Aditya Raj](https://github.com/Trigger280),  [Rishav](https://github.com/rishav0821)
 
 
